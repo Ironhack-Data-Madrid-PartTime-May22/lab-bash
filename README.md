@@ -111,4 +111,4 @@ README.md lorem solutions.ipynb
 
 * Descomprime el archivo lorem-compressed.tar.gz en la carpeta lorem-uncompressed
 
-* Crea un script bash para imprimir los numeros de 1 a 100.
+* Crea un script bash para imprimir los numeros de 1 a 10
